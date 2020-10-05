@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="Titulo">Calculadora de Média</string>
+    <string name="button1">Calcular Média</string>
+    <string name="button2">Faz algo</string>
+    <string name="item1">Informe a nota da P1</string>
+    <string name="item2">Informe a nota do projeto</string>
+    <string name="item3">Informe a pontuação das listas</string>
+    <string name="hint1">P1</string>
+    <string name="hint2">Projeto</string>
+    <string name="hint3">Lista</string>
+</resources>
